@@ -1,8 +1,4 @@
-# Coding Practice & Study Notes
-
-This repository contains my solutions and practice for **Data Structures & Algorithms (DSA)** using problems from **NeetCode**.
-
-The main goal is to build strong problem-solving skills, understand common algorithmic patterns, and prepare for technical interviews.
+# I created this repository for my own Coding Practice
 
 ## What I Practice
 
@@ -38,5 +34,3 @@ Some problems contain multiple submissions. This allows me to track my progress 
 ## Goal
 
 The main goal is to become better at recognizing **patterns, choosing the right data structures, analyzing complexity, and writing clean and efficient code**.
-
-This repository serves as a record of my continuous practice with algorithms and data structures, with a focus on improving my problem-solving skills for technical interviews and real-world software development.
